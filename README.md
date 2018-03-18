@@ -1,1 +1,1 @@
-# studysessions-sp2
+# westudy-sp2
